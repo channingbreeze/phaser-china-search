@@ -1,0 +1,6 @@
+/target
+.classpath
+.settings
+.project
+/src/main/java/logback.xml
+/src/main/java/com/phaserchina/search/config

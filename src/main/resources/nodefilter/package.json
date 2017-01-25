@@ -1,0 +1,14 @@
+{
+  "name": "nodefilter",
+  "version": "1.0.0",
+  "description": "node filter to filter phaser doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "channingbreeze",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
